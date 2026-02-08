@@ -54,8 +54,8 @@ npm run preview
 - Open an issue to discuss significant changes
 - Use feature branches and submit a PR
 
-## License
-- MIT License
--Copyright (c) 2026 Ankit Kumar
--Permission is hereby granted, free of charge, to any person obtaining a copy...
+## License  
+- MIT License  
+-Copyright (c) 2026 Ankit Kumar  
+-Permission is hereby granted, free of charge, to any person obtaining a copy...  
 
