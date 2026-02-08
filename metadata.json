@@ -1,0 +1,7 @@
+{
+  "name": "BhookLagii - Food Delivery",
+  "description": "A Classic food delivery platform featuring AI-powered recommendations, drone delivery tracking, and health insights with a cyberpunk glassmorphism aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
