@@ -51,11 +51,6 @@ npm run build
 npm run preview
 ```
 
-## Project Structure
-- `src/` app source
-- `public/` static assets
-- `index.html` app entry
-
 ## Contributing
 - Open an issue to discuss significant changes
 - Use feature branches and submit a PR
