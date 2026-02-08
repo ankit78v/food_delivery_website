@@ -25,6 +25,12 @@ A classic food delivery platform featuring smart recommendations, drone delivery
 ### Prerequisites
 - Node.js (LTS recommended)
 
+### Clone
+```bash
+git clone https://github.com/ankit78v/food_delivery_website.git
+cd food_delivery_website
+```
+
 ### Install
 ```bash
 npm install
